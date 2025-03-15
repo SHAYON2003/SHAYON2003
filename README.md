@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shayon2003&label=Profile%20views&color=0e75b6&style=flat" alt="shayon2003" /> </p>
 
-- 🌱 I’m currently learning **C++, Data structures and Algorithms, HTML, CSS**
+- 🌱 I’m currently learning **C++, Data structures and Algorithms, HTML/CSS , JAVSCRIPT, REACT**
 
 - 📫 How to reach me **shayonmozumdar7@gmail.com**
 
